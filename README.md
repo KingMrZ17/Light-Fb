@@ -8,8 +8,8 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone
+$ git clone https://github.com/KingMrZ17/Light-Fb
 
-$ cd
+$ cd Light-Fb
 
 $ python2 light-fb.py
